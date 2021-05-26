@@ -1,4 +1,5 @@
-/* eslint-disable prettier/prettier */
+// TODO: Import these instead of duplicating in index.js
+
 const samuraiQuotes = [
   {
     quote:

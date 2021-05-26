@@ -1,7 +1,7 @@
 {
-  "name": "samurai-cli",
+  "name": "way-of-the-samurai",
   "version": "1.0.0",
-  "description": "侍Quotes to awaken your inner Samurai 🏯",
+  "description": "侍 Quotes to awaken your inner Samurai 🏯",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
   "bin": {
     "samurai": "bin/index.js"
   },
-   "devDependencies": {
+  "devDependencies": {
     "eslint": "^7.27.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.3.0",
