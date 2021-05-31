@@ -118,6 +118,88 @@ const samuraiQuotes = [
       "My mentality is like a samurai they used to train every day, work on their technique to make themselves better, almost perfect, perfection is impossible but every day you get closer and that's what I want . Every day I want to get better than I was the day before. I want to use every second of my life, every time I have in my life to make me a better fighter. It's more than a job it's a way of living.",
     samurai: 'Georges St-Pierre',
   },
+  {
+    quote:
+      'A real man does not think of victory or defeat. He plunges recklessly towards an irrational death. By doing this, you will awaken from your dreams.',
+    samurai: 'Nabeshima Naoshige',
+  },
+  {
+    quote:
+      'Where life is more terrible than death, it is then the truest valor to dare to live.',
+    samurai: 'Thomas Browne',
+  },
+  {
+    quote:
+      'Everyone feels fear. What a samurai or warrior is, is what you do when you feel fear.',
+    samurai: 'Enson Inoue',
+  },
+  {
+    quote: 'If you are far from the enemy, make him believe you are near.',
+    samurai: 'Sun Tzu',
+  },
+  {
+    quote:
+      'The Samurai is the first to suffer anxiety for human society, and he is the last to seek personal pleasure.',
+    samurai: 'Morihei Ueshiba',
+  },
+  {
+    quote:
+      'Ultimately, you must forget about technique. The further you progress, the fewer teachings there are. The Great Path is really NO PATH.',
+    samurai: 'Morihei Ueshiba',
+  },
+  {
+    quote:
+      'There is something to be learned from a rainstorm. When meeting with a sudden shower, you try not to get wet and run quickly along the road. But doing such things as passing under the eaves of houses, you still get wet. When you are resolved from the beginning, you will not be perplexed, though you will still get the same soaking. This understanding extends to everything.',
+    samurai: 'Yamamoto Tsunetomo',
+  },
+  {
+    quote:
+      "One finds life through conquering the fear of death within one's mind. Empty the mind of all forms of attachment, make a go-for-broke charge and conquer the opponent with one decisive slash.",
+    samurai: 'Takenaka Shigekata',
+  },
+  {
+    quote:
+      'Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.',
+    samurai: 'Sun Tzu',
+  },
+  {
+    quote: 'Pretend inferiority and encourage his arrogance.',
+    samurai: 'Sun Tzu',
+  },
+  {
+    quote:
+      'A samurai must remain calm at all times even in the face of danger.',
+    samurai: 'Chris Bradford',
+  },
+  {
+    quote: 'I have a high art, I hurt with cruelty those who would damage me.',
+    samurai: 'Archilochus',
+  },
+  {
+    quote:
+      "This is the substance of the Way of the Samurai: if by setting one's heart right every morning and evening, one is able to live as though his body were already dead, he gains freedom in the Way. his whole life will be without blame, and he will succeed in his calling.",
+    samurai: 'Yamamoto Tsunetomo',
+  },
+  {
+    quote:
+      'It is the very mind itself that leads the mind astray - of the mind, do not be mindless.',
+    samurai: 'Takuan Soho',
+  },
+  {
+    quote:
+      "Once the will is resolved, one's spirit is strengthened. Even a peasant's will is hard to deny, but a samurai of resolute will can sway ten thou­sand men.",
+    samurai: 'Yoshida Shoin',
+  },
+  {
+    quote:
+      'He who is prudent and lies in wait for an enemy who is not, will be victorious.',
+    samurai: 'Sun Tzu',
+  },
+  {
+    quote:
+      'If ignorant both of your enemy and yourself, you are certain to be in peril.',
+    samurai: 'Sun Tzu',
+  },
 ];
 
 const generateRandomNumber = (maximumValue) =>
