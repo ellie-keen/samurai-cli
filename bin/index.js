@@ -123,7 +123,10 @@ const samuraiQuotes = [
 const generateRandomNumber = (maximumValue) =>
   Math.floor(Math.random() * maximumValue);
 
-const { quote } = samuraiQuotes[generateRandomNumber(samuraiQuotes.length - 1)];
+const { quote, samurai } =
+  samuraiQuotes[generateRandomNumber(samuraiQuotes.length - 1)];
 
 // eslint-disable-next-line no-undef
 document.getElementById('quote').textContent = quote;
+// eslint-disable-next-line no-undef
+document.getElementById('samurai').textContent = samurai;
