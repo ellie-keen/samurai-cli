@@ -3,8 +3,11 @@ body {
 }
 h1 {
   color: #e2e0d9;
+  font-family: 'Mate SC', serif;
 }
 
 p {
   color: #e2e0d9;
+  font-family: 'Mate SC', serif;
+  font-style: italic;
 }

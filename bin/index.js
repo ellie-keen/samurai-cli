@@ -129,4 +129,4 @@ const { quote, samurai } =
 // eslint-disable-next-line no-undef
 document.getElementById('quote').textContent = quote;
 // eslint-disable-next-line no-undef
-document.getElementById('samurai').textContent = samurai;
+document.getElementById('samurai').textContent = `~ ${samurai}`;
