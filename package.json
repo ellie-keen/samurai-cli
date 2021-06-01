@@ -1,6 +1,6 @@
 {
   "name": "way-of-the-samurai",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "侍 Quotes to awaken your inner Samurai 🏯",
   "main": "index.js",
   "scripts": {
