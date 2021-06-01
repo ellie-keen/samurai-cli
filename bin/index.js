@@ -200,6 +200,19 @@ const samuraiQuotes = [
       'If ignorant both of your enemy and yourself, you are certain to be in peril.',
     samurai: 'Sun Tzu',
   },
+  {
+    quote: 'The Strength We Need Is All Around Us.',
+    samurai: 'Yuriko - Ghost Of Tsushima',
+  },
+  {
+    quote: 'The Proud Do Not Endure. The Greatest Of Us Fall In The End.',
+    samurai: 'Yuriko - Ghost Of Tsushima',
+  },
+  {
+    quote:
+      'A Samurai Knows How To Apply The Right Amount Of Force. Too Little And You Lose Respect, Too Much And You Lose Opportunity',
+    samurai: 'Lord Shimura - Ghost Of Tsushima',
+  },
 ];
 
 const generateRandomNumber = (maximumValue) =>
