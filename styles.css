@@ -12,13 +12,31 @@ p {
   font-style: italic;
 }
 
+a {
+  color: #e2e0d9;
+  font-family: 'Mate SC', serif;
+  font-style: italic;
+}
+
+a:active {
+  color: #e2e0d9;
+}
+
 .border {
-  background-color: #171714;
+  background-color: #1a1817;
   margin: auto;
   margin-top: 15%;
   width: 50%;
   border: 3px solid#887b71;
   padding: 20px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 95%;
+  color: #e2e0d9;
+  text-align: right;
 }
 
 /* Leaves animation from https://codepen.io/uurrnn/pen/Kuylr */
